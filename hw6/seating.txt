@@ -1,0 +1,10 @@
+Ford Tang
+46564602
+CS 141
+Homework 6
+
+X = [klefstad,emily,isacc,beth,gong,heidi,dongjoon,chris,fred,jane] ;
+X = [klefstad,emily,isacc,beth,gong,jane,fred,chris,dongjoon,heidi] ;
+X = [klefstad,heidi,dongjoon,chris,fred,jane,gong,beth,isacc,emily] ;
+X = [klefstad,jane,fred,chris,dongjoon,heidi,gong,beth,isacc,emily] ;
+false.
